@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta Bic Azul",
+      "price": "4.00"
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac ",
+      "price": 10000
+    },
+    {
+      "id": 3,
+      "name": "Samsung S20",
+      "price": "4000"
+    },
+    {
+      "name": "Produto Teste",
+      "price": 100,
+      "id": 4
+    },
+    {
+      "name": "Produto Teste",
+      "price": 100,
+      "id": 5
+    },
+    {
+      "name": "Papel",
+      "price": "20.00",
+      "id": 6
+    },
+    {
+      "name": "Gabinete",
+      "price": "150.00",
+      "id": 7
+    },
+    {
+      "name": "Objeto",
+      "price": "20.00",
+      "id": 8
+    }
+  ]
+}
